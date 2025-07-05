@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Luna",
+    "raza": "Labrador",
+    "senas": "Collar rojo, cicatriz en pata derecha",
+    "fechaHora": "2024-06-15 08:30",
+    "fotoUrl": "",
+    "latitud": 19.4326,
+    "longitud": -99.1332
+  },
+  {
+    "nombre": "Milo",
+    "raza": "Pug",
+    "senas": "Sin collar, color beige",
+    "fechaHora": "2024-06-10 19:45",
+    "fotoUrl": "",
+    "latitud": 19.4275,
+    "longitud": -99.1411
+  }
+]

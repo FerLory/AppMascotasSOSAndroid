@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Rocky",
+    "raza": "Labrador",
+    "senas": "Collar azul y cicatriz en la pata izquierda",
+    "fechaHora": "2025-06-20 10:30",
+    "fotoUrl": "https://i.imgur.com/0Z8FfZ2.jpg"
+  },
+  {
+    "nombre": "Misha",
+    "raza": "Gato Siamés",
+    "senas": "Muy delgada, sin collar",
+    "fechaHora": "2025-06-21 08:15",
+    "fotoUrl": "https://i.imgur.com/O4T7xgX.jpg"
+  },
+  {
+    "nombre": "Toby",
+    "raza": "Beagle",
+    "senas": "Orejas caídas, muy juguetón",
+    "fechaHora": "2025-06-22 13:00",
+    "fotoUrl": "https://i.imgur.com/36nXnxr.jpg"
+  }
+]
